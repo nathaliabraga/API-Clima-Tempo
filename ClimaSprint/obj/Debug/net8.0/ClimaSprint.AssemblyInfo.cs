@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClimaSprint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdd709e93ad4b06449d4d70e91a4cbffb291de8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClimaSprint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClimaSprint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
