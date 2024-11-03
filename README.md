@@ -33,4 +33,9 @@ O modelo utilizado na prática de Machine Learning visa prever se irá ou nao ch
 - Dependency Inversion Principle: realizei injecao de dependencias
 - Open/Closed Principle: utilizei interfaces e heranças
 
+## Testes implementados
 
+- Método adicionar previsao: testa a adiçao de uma previsao de clima e verifica se as propriedas retornadas correspondem às esperadas
+- Método editar previsao: testa se a edicao de uma previsao de clima foi bem sucedida
+- Método obter previsao por ID: verifica se ao informar o ID de uma previsao ela será retornada
+- Método obter todas as previsoes: verifica se ao solicitar o retorno de todas as previsoes a lista toda será retornada
