@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BBE52D-092D-4A51-96B6-EE5CD3CAB445}|NewFolder1{F8BBE52D-092D-4A51-96B6-EE5CD3CAB445}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BBE52D-092D-4A51-96B6-EE5CD3CAB445}|NewFolder1{F8BBE52D-092D-4A51-96B6-EE5CD3CAB445}|solutionrelative:ClimaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|NewFolder1{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\IPrevisaoClimaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|NewFolder1{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|solutionrelative:IPrevisaoClimaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615FF505-E0DF-4F5D-A0AC-E846FE069803}|NewFolder1{615FF505-E0DF-4F5D-A0AC-E846FE069803}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\Bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615FF505-E0DF-4F5D-A0AC-E846FE069803}|NewFolder1{615FF505-E0DF-4F5D-A0AC-E846FE069803}|solutionrelative:Bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A744114E-D197-4E26-997E-76180C5C76DF}|NewFolder1{A744114E-D197-4E26-997E-76180C5C76DF}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A744114E-D197-4E26-997E-76180C5C76DF}|NewFolder1{A744114E-D197-4E26-997E-76180C5C76DF}|solutionrelative:ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11B10AD-ACE6-4125-82F8-BC9C3031E0D1}|NewFolder1{B11B10AD-ACE6-4125-82F8-BC9C3031E0D1}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprint.Data\\Repositories\\ClimaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11B10AD-ACE6-4125-82F8-BC9C3031E0D1}|NewFolder1{B11B10AD-ACE6-4125-82F8-BC9C3031E0D1}|solutionrelative:ClimaSprint.Data\\Repositories\\ClimaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECBC4CD-D582-43BF-865B-A5A909D0F8DA}|NewFolder1{0ECBC4CD-D582-43BF-865B-A5A909D0F8DA}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECBC4CD-D582-43BF-865B-A5A909D0F8DA}|NewFolder1{0ECBC4CD-D582-43BF-865B-A5A909D0F8DA}|solutionrelative:ClimaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BBE52D-092D-4A51-96B6-EE5CD3CAB445}|NewFolder1{F8BBE52D-092D-4A51-96B6-EE5CD3CAB445}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoChuvaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BBE52D-092D-4A51-96B6-EE5CD3CAB445}|NewFolder1{F8BBE52D-092D-4A51-96B6-EE5CD3CAB445}|solutionrelative:PrevisaoChuvaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC143C4-1520-48A5-89FE-A25E9A435480}|NewFolder1{7CC143C4-1520-48A5-89FE-A25E9A435480}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC143C4-1520-48A5-89FE-A25E9A435480}|NewFolder1{7CC143C4-1520-48A5-89FE-A25E9A435480}|solutionrelative:ClimaRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC143C4-1520-48A5-89FE-A25E9A435480}|NewFolder1{7CC143C4-1520-48A5-89FE-A25E9A435480}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprintTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC143C4-1520-48A5-89FE-A25E9A435480}|NewFolder1{7CC143C4-1520-48A5-89FE-A25E9A435480}|solutionrelative:ClimaSprintTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC15EA7-539B-4000-BDEB-31FAA2956B3A}|ClimaSprint\\ClimaSprint.csproj|c:\\users\\hp\\source\\repos\\climasprint\\climasprint\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC15EA7-539B-4000-BDEB-31FAA2956B3A}|ClimaSprint\\ClimaSprint.csproj|solutionrelative:climasprint\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC15EA7-539B-4000-BDEB-31FAA2956B3A}|ClimaSprint\\ClimaSprint.csproj|c:\\users\\hp\\source\\repos\\climasprint\\climasprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC15EA7-539B-4000-BDEB-31FAA2956B3A}|ClimaSprint\\ClimaSprint.csproj|solutionrelative:climasprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85A83B-662F-498C-AEBD-9908C11299C8}|NewFolder1{2A85A83B-662F-498C-AEBD-9908C11299C8}|C:\\Users\\HP\\Documents\\PrevisaoChuva.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC15EA7-539B-4000-BDEB-31FAA2956B3A}|ClimaSprint\\ClimaSprint.csproj|c:\\users\\hp\\source\\repos\\climasprint\\climasprint\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAC15EA7-539B-4000-BDEB-31FAA2956B3A}|ClimaSprint\\ClimaSprint.csproj|solutionrelative:climasprint\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB39ECB-EEFD-469D-8683-0587430B8839}|NewFolder1{9CB39ECB-EEFD-469D-8683-0587430B8839}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\IClimaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB39ECB-EEFD-469D-8683-0587430B8839}|NewFolder1{9CB39ECB-EEFD-469D-8683-0587430B8839}|solutionrelative:IClimaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BC2BCE-74AF-48E0-9A9A-D1D6B7C83CEC}|NewFolder1{A3BC2BCE-74AF-48E0-9A9A-D1D6B7C83CEC}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoClimaApplicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BC2BCE-74AF-48E0-9A9A-D1D6B7C83CEC}|NewFolder1{A3BC2BCE-74AF-48E0-9A9A-D1D6B7C83CEC}|solutionrelative:PrevisaoClimaApplicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DBC30F-9487-4B69-A02B-A4A364D151EE}|NewFolder1{61DBC30F-9487-4B69-A02B-A4A364D151EE}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoClimaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DBC30F-9487-4B69-A02B-A4A364D151EE}|NewFolder1{61DBC30F-9487-4B69-A02B-A4A364D151EE}|solutionrelative:PrevisaoClimaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE1A351-E81C-4B22-8AB5-6E5CC787A404}|NewFolder1{4EE1A351-E81C-4B22-8AB5-6E5CC787A404}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoClimaEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE1A351-E81C-4B22-8AB5-6E5CC787A404}|NewFolder1{4EE1A351-E81C-4B22-8AB5-6E5CC787A404}|solutionrelative:PrevisaoClimaEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|NewFolder1{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\IClimaApplicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|NewFolder1{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|solutionrelative:IClimaApplicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|NewFolder1{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|C:\\Users\\HP\\source\\repos\\ClimaSprint\\IClimaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|NewFolder1{7D9952EF-F4D1-4EF9-A8C5-C8F040066AD5}|solutionrelative:IClimaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\0494968bcfd472966b132413599bc9ef4f18706e13482e11f3891dac80261daf\\RealProxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrevisaoChuvaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoChuvaController.cs",
+              "RelativeDocumentMoniker": "PrevisaoChuvaController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoChuvaController.cs",
+              "RelativeToolTip": "PrevisaoChuvaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:42:36.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClimaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaController.cs",
+              "RelativeDocumentMoniker": "ClimaController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaController.cs",
+              "RelativeToolTip": "ClimaController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:11:07.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClimaService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaService.cs",
+              "RelativeDocumentMoniker": "ClimaService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaService.cs",
+              "RelativeToolTip": "ClimaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:42:15.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\Bootstrap.cs",
+              "RelativeDocumentMoniker": "Bootstrap.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\Bootstrap.cs",
+              "RelativeToolTip": "Bootstrap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:40:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClimaRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaRepositoryTest.cs",
+              "RelativeDocumentMoniker": "ClimaRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaRepositoryTest.cs",
+              "RelativeToolTip": "ClimaRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:37:21.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClimaSprintTest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprintTest.cs",
+              "RelativeDocumentMoniker": "ClimaSprintTest.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprintTest.cs",
+              "RelativeToolTip": "ClimaSprintTest.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAABgAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:29:57.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClimaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprint.Data\\Repositories\\ClimaRepository.cs",
+              "RelativeDocumentMoniker": "ClimaSprint.Data\\Repositories\\ClimaRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprint.Data\\Repositories\\ClimaRepository.cs",
+              "RelativeToolTip": "ClimaSprint.Data\\Repositories\\ClimaRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:16:49.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ApplicationContext.cs",
+              "RelativeToolTip": "ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:17:18.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrevisaoClimaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\IPrevisaoClimaRepository.cs",
+              "RelativeDocumentMoniker": "IPrevisaoClimaRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\IPrevisaoClimaRepository.cs",
+              "RelativeToolTip": "IPrevisaoClimaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:50:15.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprint\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ClimaSprint\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprint\\WeatherForecast.cs",
+              "RelativeToolTip": "ClimaSprint\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:46:29.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprint\\appsettings.json",
+              "RelativeDocumentMoniker": "ClimaSprint\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprint\\appsettings.json",
+              "RelativeToolTip": "ClimaSprint\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T18:00:28.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrevisaoChuva.csv",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PrevisaoChuva.csv",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\PrevisaoChuva.csv",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PrevisaoChuva.csv",
+              "RelativeToolTip": "..\\..\\..\\Documents\\PrevisaoChuva.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-03T18:41:10.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClimaDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\IClimaDto.cs",
+              "RelativeDocumentMoniker": "IClimaDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\IClimaDto.cs",
+              "RelativeToolTip": "IClimaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:47:57.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprint\\Program.cs",
+              "RelativeDocumentMoniker": "ClimaSprint\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\ClimaSprint\\Program.cs",
+              "RelativeToolTip": "ClimaSprint\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:06:07.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PrevisaoClimaApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoClimaApplicationService.cs",
+              "RelativeDocumentMoniker": "PrevisaoClimaApplicationService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoClimaApplicationService.cs",
+              "RelativeToolTip": "PrevisaoClimaApplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:37:43.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PrevisaoClimaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoClimaEntity.cs",
+              "RelativeDocumentMoniker": "PrevisaoClimaEntity.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoClimaEntity.cs",
+              "RelativeToolTip": "PrevisaoClimaEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:32:34.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IClimaApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\IClimaApplicationService.cs",
+              "RelativeDocumentMoniker": "IClimaApplicationService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\IClimaApplicationService.cs",
+              "RelativeToolTip": "IClimaApplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:48:47.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IClimaService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\IClimaService.cs",
+              "RelativeDocumentMoniker": "IClimaService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\IClimaService.cs",
+              "RelativeToolTip": "IClimaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:51:04.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrevisaoClimaDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoClimaDto.cs",
+              "RelativeDocumentMoniker": "PrevisaoClimaDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ClimaSprint\\PrevisaoClimaDto.cs",
+              "RelativeToolTip": "PrevisaoClimaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:34:54.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RealProxy.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\0494968bcfd472966b132413599bc9ef4f18706e13482e11f3891dac80261daf\\RealProxy.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0494968bcfd472966b132413599bc9ef4f18706e13482e11f3891dac80261daf\\RealProxy.cs",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\0494968bcfd472966b132413599bc9ef4f18706e13482e11f3891dac80261daf\\RealProxy.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0494968bcfd472966b132413599bc9ef4f18706e13482e11f3891dac80261daf\\RealProxy.cs [Somente Leitura]",
+              "ViewState": "AQIAADoCAAAAAAAAAAApwFsBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:03:21.442Z",
+              "EditorCaption": " [Somente Leitura]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\ClimaSprint\ClimaSprint.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_ClimaSprint.Test
+C:\Users\HP\source\repos\ClimaSprint\ClimaSprint.Test\obj\Debug\net8.0\ClimaSprint.Test.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ClimaSprint\ClimaSprint.Test\obj\Debug\net8.0\ClimaSprint.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ClimaSprint\ClimaSprint.Test\obj\Debug\net8.0\ClimaSprint.Test.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ClimaSprint\ClimaSprint.Test\obj\Debug\net8.0\ClimaSprint.Test.AssemblyInfo.cs
+C:\Users\HP\source\repos\ClimaSprint\ClimaSprint.Test\obj\Debug\net8.0\ClimaSprint.Test.csproj.CoreCompileInputs.cache
