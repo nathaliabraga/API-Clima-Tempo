@@ -22,6 +22,7 @@ A API utilizada é a do Open Weather Map, que fornece informaçoes de previsao c
 ## Modelo do ML.NET
 
 O modelo utilizado na prática de Machine Learning visa prever se irá ou nao chover em um determinado dia, utilizando um csv com dados históricos.
+
 ![image](https://github.com/user-attachments/assets/19cb0bba-9642-4b0c-83f6-ad2dafc7179d)
 
 ## Práticas de Clean Code e SOLID utilizadas
